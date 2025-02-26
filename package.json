@@ -1,8 +1,8 @@
 {
-  "name": "radon-games",
+  "name": "kainchi",
   "description": "An open-source unblocked games website built with simplicity in mind.",
   "version": "4.2.0",
-  "author": "Cohen Erickson <cohen@radon.games>",
+  "author": "Adrian Dean <adrian@kainchi>",
   "type": "module",
   "license": "GNU v2",
   "scripts": {
